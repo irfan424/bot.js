@@ -1,2 +1,2 @@
-# bot.js
+# 7/24
 KonyaBot
